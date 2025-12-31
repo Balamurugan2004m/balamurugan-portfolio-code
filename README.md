@@ -1,6 +1,13 @@
-# Balamurugan – Frontend Portfolio
+# Balamurugan – Frontend Portfolio  
+🔗 Live URL: https://balamurugan2004m.github.io/balamurugan-portfolio-code/
 
 A responsive personal portfolio website showcasing my projects, skills, and services as a frontend developer and UI/UX enthusiast.
+
+---
+
+## 🌐 View Live Website
+
+👉 https://balamurugan2004m.github.io/balamurugan-portfolio-code/
 
 ---
 
@@ -56,31 +63,5 @@ A food ordering landing page emphasizing simple UI, visual hierarchy, and call-t
 ## How to Run Locally
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/balamurugan-portfolio-code.git`
-
-2. Open `index.html` in any modern browser
-
-No additional setup or dependencies required.
-
----
-
-## Purpose
-
-- Showcase frontend development skills
-- Serve as a personal portfolio
-- Act as a foundation for future enhancements
-
----
-
-## Contact
-
-- Email: bm8476728@gmail.com  
-- Phone: 8838403932  
-- Location: Tamil Nadu, India  
-
----
-
-## License
-
-This project is open for learning and personal use.  
-Please provide credit if reused.
+   ```bash
+   git clone https://github.com/your-username/balamurugan-portfolio-code.git
