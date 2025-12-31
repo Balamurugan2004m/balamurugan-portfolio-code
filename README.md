@@ -1,5 +1,4 @@
 # Balamurugan – Frontend Portfolio  
-🔗 Live URL: https://balamurugan2004m.github.io/balamurugan-portfolio-code/
 
 A responsive personal portfolio website showcasing my projects, skills, and services as a frontend developer and UI/UX enthusiast.
 
