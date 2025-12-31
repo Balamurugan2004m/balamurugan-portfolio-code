@@ -212,3 +212,36 @@
     text-align: center;
     padding: 10px;
 }
+
+.qr-bg-container {
+    background-color: #2e3a47;
+    text-align: center;
+    padding: 20px;
+}
+
+.qr-code-card-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.qr-card-container-heading {
+    font-family: "Bree Serif";
+    font-weight: 700;
+    color: white;
+    font-size: 25px;
+}
+
+.qr-card-container-paragraph {
+    font-family: "Bree Serif";
+    font-weight: 400;
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+.qr-card-container {
+    width: 250px;
+    background-color: #1f2933;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
